@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+results/
+figures/
+data/synthetic.csv
+*.npy
+.DS_Store
